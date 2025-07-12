@@ -3,10 +3,12 @@
   <img src="" alt="Banner" />
 </p>
 
-<p align="center">
-  <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" width="300" />
-</p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
+  <a href="https://t.me/username"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&style=for-the-badge"></a>
+  <a href="https://youtube.com/@username"><img src="https://img.shields.io/badge/YouTube-red?logo=youtube&style=for-the-badge"></a>
+</p>
 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
