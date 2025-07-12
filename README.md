@@ -1,6 +1,6 @@
 💻 Tech Stack:
 <p align="center">
-  <img src="[zODgtMDEzNC00NGEyLWE4NjUtMTg3MTliMzMxNTQwXC9kNXhieHExLTJhMmYzYTQyLTJmN2ItNDE4OS1iMjQ4LWZlNGFlNjhlMjgyNC5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.YHHfqWRIZVMFJr_vmZPXOJzB3Q_sDu_rGm3YD3uitDs](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWIwODB3NHpyOHhjZXRvaG1xNnp0MnRwbzJhMjZreHJucnNjcjYxOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)" alt="Banner" />
+  <img src="(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWIwODB3NHpyOHhjZXRvaG1xNnp0MnRwbzJhMjZreHJucnNjcjYxOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)" alt="Banner" />
 </p>
 
 <p align="center">
