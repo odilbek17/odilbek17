@@ -10,8 +10,8 @@
 ### 📫 Contact me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/odilbek-gulomov-b62053338"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
-  <a href="https://t.me/ZeroDay_Cayber"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/odilbek-gulomov-b62053338/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BOxC4jE8SSSuTuhSWS9Z4mA%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
+  <a href="@FullIhsan"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&style=for-the-badge"></a>
   <a href="mailto:gulomovodilbek430@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white"></a>
 </p>
 
