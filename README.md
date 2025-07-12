@@ -1,19 +1,15 @@
 💻 Tech Stack:
-<!--
-**odilbek17/odilbek17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bb257388-0134-44a2-a865-18719b331540/d5xbxq1-2a2f3a42-2f7b-4189-b248-fe4ae68e2824.jpg/v1/fill/w_1024,h_576,q_75,strp/pc_ware_wallpaper_by_marcobarcelon_d5xbxq1-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvYmIyNTczODgtMDEzNC00NGEyLWE4NjUtMTg3MTliMzMxNTQwXC9kNXhieHExLTJhMmYzYTQyLTJmN2ItNDE4OS1iMjQ4LWZlNGFlNjhlMjgyNC5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.YHHfqWRIZVMFJr_vmZPXOJzB3Q_sDu_rGm3YD3uitDs" alt="Banner" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWIwODB3NHpyOHhjZXRvaG1xNnp0MnRwbzJhMjZreHJucnNjcjYxOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif
+" width="300" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- Frontend -->
+
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
