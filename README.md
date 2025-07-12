@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Odilbek Gulomov</h1>
-<h3 align="center"> Inshalloh A passionate Cybersecurity learner and Web Developer from Uzbekistan 🇺🇿</h3>
+<h3 align="center"> Inshaalloh A passionate Cybersecurity learner and Web Developer from Uzbekistan 🇺🇿</h3>
 
 ---
 
