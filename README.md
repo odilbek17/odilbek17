@@ -1,10 +1,10 @@
 💻 Tech Stack:
 <p align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bb257388-0134-44a2-a865-18719b331540/d5xbxq1-2a2f3a42-2f7b-4189-b248-fe4ae68e2824.jpg/v1/fill/w_1024,h_576,q_75,strp/pc_ware_wallpaper_by_marcobarcelon_d5xbxq1-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvYmIyNTczODgtMDEzNC00NGEyLWE4NjUtMTg3MTliMzMxNTQwXC9kNXhieHExLTJhMmYzYTQyLTJmN2ItNDE4OS1iMjQ4LWZlNGFlNjhlMjgyNC5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.YHHfqWRIZVMFJr_vmZPXOJzB3Q_sDu_rGm3YD3uitDs" alt="Banner" />
+  <img src="[zODgtMDEzNC00NGEyLWE4NjUtMTg3MTliMzMxNTQwXC9kNXhieHExLTJhMmYzYTQyLTJmN2ItNDE4OS1iMjQ4LWZlNGFlNjhlMjgyNC5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.YHHfqWRIZVMFJr_vmZPXOJzB3Q_sDu_rGm3YD3uitDs](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWIwODB3NHpyOHhjZXRvaG1xNnp0MnRwbzJhMjZreHJucnNjcjYxOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)" alt="Banner" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWIwODB3NHpyOHhjZXRvaG1xNnp0MnRwbzJhMjZreHJucnNjcjYxOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif
+  <img src="
 " width="300" />
 </p>
 
