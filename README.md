@@ -1,11 +1,10 @@
 💻 Tech Stack:
 <p align="center">
-  <img src="(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWIwODB3NHpyOHhjZXRvaG1xNnp0MnRwbzJhMjZreHJucnNjcjYxOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)" alt="Banner" />
+  <img src="" alt="Banner" />
 </p>
 
 <p align="center">
-  <img src="
-" width="300" />
+  <img src="(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWIwODB3NHpyOHhjZXRvaG1xNnp0MnRwbzJhMjZreHJucnNjcjYxOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)" width="300" />
 </p>
 
 
