@@ -2,8 +2,8 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="banner gif">
 </p>
 
-<h1 align="center">Hi 👋, I'm Odilbek Gulomov</h1>
-<h3 align="center">A passionate Cybersecurity learner and Web Developer from Uzbekistan 🇺🇿</h3>
+<h1 align="center">Odilbek Gulomov</h1>
+<h3 align="center"> Inshalloh A passionate Cybersecurity learner and Web Developer from Uzbekistan 🇺🇿</h3>
 
 ---
 
