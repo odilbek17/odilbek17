@@ -47,14 +47,6 @@
   <img src="https://streak-stats.demolab.com/?user=odilbek17&theme=radical" width="48%" />
 </p>
 
----
-
-## 💼 Featured Projects
-
-- 🎮 [Aviator Game Clone (Fullstack)](https://github.com/odilbek17/aviator-clone)  
-- 🔐 [Cybersecurity Tools Toolkit](https://github.com/odilbek17/cyber-tools)  
-- 📚 [Telegram Tarjimon Bot](https://t.me/AddMoreOfficialBot)  
-- 📱 [Online Store with REST API](https://github.com/odilbek17/nodejs-rest-store)  
 
 ---
 
