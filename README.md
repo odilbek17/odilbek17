@@ -1,12 +1,4 @@
----
 
-## 📜 Certifications
-
-- 🛡 **Cybersecurity Essentials — Cisco Networking Academy**
-  - [📄 Sertifikatni ko‘rish](https://github.com/odilbek17/certificates/blob/main/cybersecurity-essentials.pdf)
-
-- 💻 **Full Stack Web Development — Udemy**  
-  - [📄 Sertifikatni ko‘rish](https://github.com/odilbek17/certificates/blob/main/fullstack-udemy.pdf)
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="banner gif">
 </p>
