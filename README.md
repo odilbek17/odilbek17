@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="300" alt="hacker coding gif">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="banner gif">
 </p>
-
 
 <h1 align="center">Odilbek Gulomov</h1>
 <h3 align="center">🛡 Cybersecurity enthusiast | 💻 Full Stack Web Developer | 🇺🇿 Uzbekistan</h3>
