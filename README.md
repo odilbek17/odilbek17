@@ -1,10 +1,9 @@
-
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="banner gif">
 </p>
 
 <h1 align="center">Odilbek Gulomov</h1>
-<h3 align="center">🛡 Cybersecurity enthusiast | 💻 Full Stack Web Developer | 🇺🇿 Uzbekistan</h3>
+<h3 align="center">🛡 Cybersecurity Enthusiast | 💻 Full Stack Web Developer | 🇺🇿 Uzbekistan</h3>
 
 ---
 
@@ -15,6 +14,17 @@
 - 🌐 Cybersecurity sohasida **penetration testing**, **network security** va **ethical hacking**ga qiziqaman  
 - 🚀 Har doim yangi texnologiyalarni o‘rganish va haqiqiy muammolarni yechishga qiziqaman  
 - 🧠 Asosiy tamoyilim: **"Yaxshi kod — oddiy, tushunarli va xavfsiz kod!"**
+
+---
+
+## 🧾 Certifications
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/certificates/cisco-cybersecurity.png" width="600" alt="Cisco Certificate">
+</p>
+
+- 🏅 **Cisco Networking Academy — Introduction to Cybersecurity**  
+  <sub><i>Completed: 28 May 2025</i></sub>
 
 ---
 
@@ -37,7 +47,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </p>
 
-
 ---
 
 ## 📊 GitHub Stats
@@ -47,14 +56,13 @@
   <img src="https://streak-stats.demolab.com/?user=odilbek17&theme=radical" width="48%" />
 </p>
 
-
 ---
 
 ## 🚀 Current Goals
 
 - 🔍 Bug Bounty kurslarini tugatish
 - 🔧 Web security ustida amaliy loyihalar yaratish
-- 🧠 OWASP 10 zaifliklarini to‘liq o‘rganish
+- 🧠 OWASP Top 10 zaifliklarini to‘liq o‘rganish
 - 📦 Docker + DevOps asoslarini o‘rganish
 
 ---
