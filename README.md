@@ -20,7 +20,7 @@
 ## 🧾 Certifications
 
 <p align="center">
-  <img src="https://we.tl/t-w5Sn7XW0AD" width="600" alt="Cisco Certificate">
+  <img src="chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/a450a97b-d863-4a6d-a7e7-39539bd6421e" width="600" alt="Cisco Certificate">
 </p>
 
 - 🏅 **Cisco Networking Academy — Introduction to Cybersecurity**  
