@@ -20,7 +20,7 @@
 ## 🧾 Certifications
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/certificates/cisco-cybersecurity.png" width="600" alt="Cisco Certificate">
+  <img src="https://we.tl/t-w5Sn7XW0AD" width="600" alt="Cisco Certificate">
 </p>
 
 - 🏅 **Cisco Networking Academy — Introduction to Cybersecurity**  
