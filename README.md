@@ -66,7 +66,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/odilbek-gulomov-b62053338"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
-  <a href="https://t.me/FullIhsan"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&style=for-the-badge"></a>
+  <a href="https://t.me/@Cybersecuri1ty"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&style=for-the-badge"></a>
   <a href="mailto:gulomovodilbek430@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white"></a>
   <a href="https://www.instagram.com/gu1omov.17"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white"></a>
 </p>
