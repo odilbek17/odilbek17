@@ -17,11 +17,6 @@
 
 ---
 
-## 🧾 Certifications
-
-<p align="center">
-  <img src="chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/a450a97b-d863-4a6d-a7e7-39539bd6421e" width="600" alt="Cisco Certificate">
-</p>
 
 - 🏅 **Cisco Networking Academy — Introduction to Cybersecurity**  
   <sub><i>Completed: 28 May 2025</i></sub>
